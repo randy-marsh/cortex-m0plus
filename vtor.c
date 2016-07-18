@@ -2,7 +2,7 @@
  * vtor.c
  *
  *  Created on: Jul 30, 2015
- *      Author: juan
+ *      Author: Randy Marsh
  */
 
 
