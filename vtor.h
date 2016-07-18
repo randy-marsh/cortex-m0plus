@@ -2,7 +2,7 @@
  * vtor.h
  *
  *  Created on: Jul 30, 2015
- *      Author: juan
+ *      Author: Randy Marsh
  */
 
 #ifndef VTOR_H_
