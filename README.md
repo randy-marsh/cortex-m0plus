@@ -1,4 +1,4 @@
-# cortex-m0plus
+# cortex-mx
 Useful library for the cortex-m family of microcontrollers
 ## Description
 This library allows to jump into another image program given the starting address. 
